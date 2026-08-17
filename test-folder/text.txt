@@ -1,0 +1,2 @@
+aoa, this is my first line from vs code terminal
+wanna check if the changes got tracked or not
